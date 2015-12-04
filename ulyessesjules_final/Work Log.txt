@@ -17,3 +17,13 @@ Total hours: 4
 Finished setting up all notes to play on each key with the help of Kristen and Jason
 
 Next step is to re-grab and edit the audio clips because of complications and add more functions
+
+WEEk 13
+
+Total hours: 6
+
+Added classes to jQuery to give the impression of keys being pushed down
+
+Helped out Jin and Angela with audio
+
+Next step is to condense my javascript and add ‘click’ events along side ‘keydown’ and ‘keyup’
