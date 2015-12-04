@@ -1,0 +1,167 @@
+body {
+    font-size: 10px;
+    line-height: 20px;
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.container {
+	width: 590px;
+	height: 225px;
+	margin-bottom: 40px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 40px;
+}
+
+.keyboard_octave4_5 {
+	width: 590px;
+	height: 225px;
+	display: block;
+	position: relative;
+}
+
+.keyboard_octave2_3 {
+	width: 588px;
+	height: 225px;
+	display: block;
+	position: relative;
+}
+
+.key {
+	text-align: center;
+	float: left;
+	border-style: solid;
+	border-width: 1px;
+	border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+}
+
+.black .key {
+	width: 25px;
+	height: 155px;
+	background-color: #333333;
+	position: absolute;
+}
+
+.black .key:active {
+	background-color: black;
+}
+
+.black .black_press {
+	background-color: black;
+}
+
+
+.black span {
+	color: white;
+	display: inline-block;
+	padding-top: 130px;
+}
+
+.white .key {
+	width: 40px;
+	height: 230px;
+	background-color: white;
+}
+
+.white .key:active {
+	background-color: #e6e6e6;
+}
+
+.white .white_press {
+	background-color: #e6e6e6;
+}
+
+.white span {
+	display: inline-block;
+	padding-top: 200px;
+}
+
+/*List of all the sharps*/
+/*Octave 4*/
+
+.C4_sharp {
+	left: 27px;
+}
+
+.D4_sharp {
+	left: 72px;
+}
+
+.F4_sharp {
+	left: 152px;
+}
+
+.G4_sharp {
+	left: 196px;
+}
+
+.A4_sharp {
+	left: 240px;
+}
+
+/*Octave 5*/
+
+.C5_sharp {
+	left: 320px;
+}
+
+.D5_sharp {
+	left: 367px;
+}
+
+.F5_sharp {
+	left: 447px;
+}
+
+.G5_sharp {
+	left: 490px;
+}
+
+.A5_sharp {
+	left: 537px;
+}
+
+/*Octave 2*/
+
+.C2_sharp {
+	left: 27px;
+}
+
+.D2_sharp {
+	left: 72px;
+}
+
+.F2_sharp {
+	left: 152px;
+}
+
+.G2_sharp {
+	left: 196px;
+}
+
+.A2_sharp {
+	left: 240px;
+}
+
+/*Octave 3*/
+
+.C3_sharp {
+	left: 320px;
+}
+
+.D3_sharp {
+	left: 367px;
+}
+
+.F3_sharp {
+	left: 447px;
+}
+
+.G3_sharp {
+	left: 490px;
+}
+
+.A3_sharp {
+	left: 537px;
+}

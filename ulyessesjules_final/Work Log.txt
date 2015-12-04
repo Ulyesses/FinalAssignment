@@ -1,0 +1,19 @@
+--WORK LOG--
+
+WEEK 11
+
+Total Hours: 4-5
+
+Finished setting up the html/css for the layout of the piano.
+
+If I have time, I will add more to the layout a bit like textures to replicate an actual keyboard.
+
+Next step is to grab the audio clips for all 48 keys
+
+WEEK 12
+
+Total hours: 4
+
+Finished setting up all notes to play on each key with the help of Kristen and Jason
+
+Next step is to re-grab and edit the audio clips because of complications and add more functions
