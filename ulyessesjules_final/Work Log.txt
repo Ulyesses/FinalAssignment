@@ -27,3 +27,9 @@ Added classes to jQuery to give the impression of keys being pushed down
 Helped out Jin and Angela with audio
 
 Next step is to condense my javascript and add ‘click’ events along side ‘keydown’ and ‘keyup’
+
+WEEK 14
+
+Helped out Jason with audio
+
+Slightly figured out how to have both ‘click’ and ‘keydown’ functions

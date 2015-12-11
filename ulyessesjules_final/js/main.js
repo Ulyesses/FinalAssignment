@@ -62,6 +62,12 @@ $(document).ready(function(){
 		if(e.keyCode == 49){
 			C5.load();
 			C5.play();
+
+			$('.C5').on('click', function(e){
+				C5.load();
+				C5.play();
+			});
+
 			$('.C5').addClass('white_press');
 		}
 
@@ -70,6 +76,11 @@ $(document).ready(function(){
 			C5_sharp.play();
 			$('.C5_sharp').addClass('black_press');
 		}
+
+			$('.C5_sharp').on('click', function(e){
+			C5_sharp.load();
+			C5_sharp.play();
+		});
 
 		if(e.keyCode == 51){
 			D5.load();

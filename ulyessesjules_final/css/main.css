@@ -49,6 +49,7 @@ body {
 
 .black .black_press {
 	background-color: black;
+	height: 153px;
 }
 
 
@@ -70,6 +71,7 @@ body {
 
 .white .white_press {
 	background-color: #e6e6e6;
+	height: 228px;
 }
 
 .white span {
